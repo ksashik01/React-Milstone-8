@@ -1,0 +1,21 @@
+
+
+
+
+
+
+.countries{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid:20px;
+    width: 80%;margin: auto;
+}
+
+
+
+
+.country img {
+
+width: 200px;
+
+}
